@@ -2,7 +2,7 @@
 
 Demo Bar chart using fl_chart package
 
-![Bar Chart](https://github.com/rosera/bar_chart_demo/blob/main/screenshots/bar_chart_demo.png "Mobile App")
+![Bar Chart](https://github.com/rosera/bar_chart_demo/blob/main/screenshots/bar-chart.png "Mobile App")
 
 ## Getting Started
 
