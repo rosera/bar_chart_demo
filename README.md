@@ -2,6 +2,8 @@
 
 Demo Bar chart using fl_chart package
 
+![Bar Chart](https://github.com/rosera/bar_chart_demo/blob/main/screenshots/bar_chart_demo.png "Mobile App")
+
 ## Getting Started
 
 The developer is required to include the CustomBarChart widget.
